@@ -21,5 +21,5 @@ To get started with the Movie Bookings Application, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/RajuVaghmare/movie-booking-app.git
+   git clone https://github.com/RajuVaghmare/Basic-UI-for-movie-bookings.git
    cd movie-booking-app
