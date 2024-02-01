@@ -1,6 +1,6 @@
 # Basic-UI-for-movie-bookings
 
-![Movie Booking](link_to_your_project_image)
+![Demo]([link_to_your_project_imag](https://flourishing-pie-ede37e.netlify.app)e)
 
 
 ## Introduction
